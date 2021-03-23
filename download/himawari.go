@@ -22,7 +22,7 @@ const (
 	hwImageFormat  = "2006/01/02/150405"
 )
 
-// Himawari is a japanese weather satellite whose images are a pain in the
+// Himawari is a Japanese weather satellite whose images are a pain in the
 // ass to parse.
 // See https://en.wikipedia.org/wiki/Himawari_8
 type Himawari struct {

@@ -6,8 +6,8 @@ import (
 	"path/filepath"
 	"time"
 
-	"github.com/avinashbot/satellite/background"
-	"github.com/avinashbot/satellite/download"
+	"github.com/jeandeaual/satellite/background"
+	"github.com/jeandeaual/satellite/download"
 )
 
 var (
